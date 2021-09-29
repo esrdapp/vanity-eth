@@ -29,7 +29,7 @@
         <p>
             As explained above, everything is computed only in your browser. Nothing ever leaves your machine, or even
             your browser tab. There is no database, no server-side code. Everything vanishes when you close your tab.<br><br>
-            <b>Vanity-ETH cannot and will never store your private key</b>, and if you don't trust it, you have 3 ways to ensure
+            <b>Vanity-HPB cannot and will never store your private key</b>, and if you don't trust it, you have 3 ways to ensure
             your key remains private:<br>
             &nbsp;-&nbsp;Once the web page is loaded, you can turn off the internet and continue playing, it will work seamlessly<br>
             &nbsp;-&nbsp;You can also download the latest build of Vanity-HPB
