@@ -1,8 +1,8 @@
 <template>
     <!--Github corner-->
     <div>
-        <h1>VANITY-ETH</h1>
-        <p>ETH vanity address generator</p>
+        <h1>VANITY-HPB</h1>
+        <p>HPB vanity address generator</p>
     </div>
 </template>
 
